@@ -1,4 +1,4 @@
-### Drag & Drop Application 🎯  
+### Daily JavaScript App - Day 29: Drag & Drop Application 🎯  
 
 This simple and effective **Drag & Drop** application allows users to move items from one area to another using drag-and-drop functionality. Developed as part of the **Daily JavaScript Coding Challenge**, this project offers an interactive interface based on modern web technologies.
 
